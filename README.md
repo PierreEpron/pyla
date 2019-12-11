@@ -8,6 +8,7 @@ I only put 5 photos because the orignal project contains 8000 photos (1920x1080)
 I put the results for year 2015.
 
 pyla.py contain the logic
+
 pyla_ctrl.py is an "How to do it"
 
 
